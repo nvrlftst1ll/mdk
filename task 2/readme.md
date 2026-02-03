@@ -87,7 +87,7 @@ const discounts = [10, 0, 15, 5, 20, 0, 10];</code></pre>
                 <li>Убедитесь, что у вас установлен Node.js</li>
                 <li>Скачайте файл <code>script.js</code></li>
                 <li>Запустите файл в консоли:
-                    <pre><code>node array-methods-practice.js</code></pre>
+                    <pre><code>node script.js</code></pre>
                 </li>
             </ol>
         </section>
